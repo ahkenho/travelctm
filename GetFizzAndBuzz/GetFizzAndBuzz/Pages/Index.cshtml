@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Fizz Buzz</h1>
+    <p>Enter a number between 1 to 100 to get the FizzBuzz sequence.</p>
+
+    <form>
+        <input type="text" asp-for="InputNum" />
+        <input type="submit" value="Generate" />
+    </form>
+    @foreach(var item in Model.FizzBuzz)
+    {
+        <span>@Html.DisplayFor(item => item)</span>
+    }
+
+</div>

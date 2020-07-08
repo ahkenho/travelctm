@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{46A4AE83-49E9-4BEB-8083-93E60A364AC6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ctmConsoleApp/Program.cs">
-    <Files>
-      <File FileName="ctmConsoleApp/Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -21,5 +18,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ctmConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ctmConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

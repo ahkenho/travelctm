@@ -1,0 +1,12 @@
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.csprojAssemblyReference.cache
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.AssemblyInfoInputs.cache
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.AssemblyInfo.cs
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/bin/Debug/netcoreapp3.1/ctmConsoleApp.deps.json
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/bin/Debug/netcoreapp3.1/ctmConsoleApp.runtimeconfig.json
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/bin/Debug/netcoreapp3.1/ctmConsoleApp.runtimeconfig.dev.json
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/bin/Debug/netcoreapp3.1/ctmConsoleApp.dll
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/bin/Debug/netcoreapp3.1/ctmConsoleApp.pdb
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.dll
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.pdb
+/Users/ahkenho/Documents/code/travelctm/ctmConsoleApp/ctmConsoleApp/obj/Debug/netcoreapp3.1/ctmConsoleApp.genruntimeconfig.cache

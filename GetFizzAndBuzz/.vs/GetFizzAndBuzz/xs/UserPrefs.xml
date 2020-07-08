@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B602D646-993C-4D43-B5F2-088069BE4703}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetFizzAndBuzz/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="GetFizzAndBuzz/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="GetFizzAndBuzz/Pages/Index.cshtml.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetFizzAndBuzz" expanded="True">
+            <Node name="GetFizzAndBuzz" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GetFizzAndBuzz PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

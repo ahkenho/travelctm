@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONZfIhmDt7RlMUQSa8Nqbt8tLeIUsqwvxGE9YVQWIwTOjT126ZXBjfY4ulJ86DmYPMKsLgMOny1Fo+O3Iqjm0g==",
+  "success": true,
+  "projectFilePath": "/Users/ahkenho/Documents/code/travelctm/GetFizzAndBuzz/GetFizzAndBuzz/GetFizzAndBuzz.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahkenho/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

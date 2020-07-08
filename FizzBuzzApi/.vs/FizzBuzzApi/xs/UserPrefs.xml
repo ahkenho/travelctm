@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D253D079-1218-48FB-8AFE-7ABBE743C1A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzzApi/appsettings.json">
+    <Files>
+      <File FileName="FizzBuzzApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="FizzBuzzApi/Controllers/FizzBuzzController.cs" Line="21" Column="28" NotebookId="1" />
+      <File FileName="FizzBuzzApi/Startup.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="FizzBuzzApi/Services/FizzBuzz.cs" Line="8" Column="49" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FizzBuzzApi" expanded="True">
+            <Node name="FizzBuzzApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
